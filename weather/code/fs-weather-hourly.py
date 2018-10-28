@@ -46,7 +46,7 @@ import urllib2
 import arrow ## to get today's date
 
 import os
-os.environ["GOOGLE_API_KEY"] = 'AIzaSyBCStYlYkMxdXJYJjuVEINvU7U8HBarCJ0'
+os.environ["GOOGLE_API_KEY"] = 'AIzaSyBCStYlYkMxdXJYJjuVEINvU7U8HBar***'
 
 import geocoder
 
